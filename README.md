@@ -13,3 +13,7 @@ last steps:
 1. install Firefox browser
 2. install `geckodriver`
 2. set path to your installed driver in `constants.py` to variable `gecko_path`
+
+## For users:
+
+You can set start year and last year for collecting weather in `constants.py` with using vars: `start_year` and `last_year`.
