@@ -9,3 +9,7 @@ python3 -m venv env
 source env/bin/activate
 python -m pip install -r requirements.txt
 ```
+also you need:
+1. to install Firefox
+2. to install geckodriver
+2. set path to your installed driver in `constants.py` to variable `gecko_path`
