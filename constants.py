@@ -8,8 +8,7 @@ final_month = 10
 
 url_proxy = 'https://free-proxy-list.net/'
 
-chrome_path = 'D:\PyCharm projects\parsers\chromedriver.exe'
-gecko_path = 'D:\PyCharm projects\parsers\geckodriver.exe'
+gecko_path = 'your\path\to\geckodriver.exe'
 
 headers = [
     'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36',
